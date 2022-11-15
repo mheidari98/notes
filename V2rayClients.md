@@ -7,7 +7,7 @@
 - [Mac](#mac)
 - [Linux](#linux)
 
-<details align="center">
+<details align="center" open>
   <summary>
     <h2>Android</h2>
   </summary>
@@ -75,7 +75,7 @@
   </table>
 </details>
 
-<details align="center">
+<details align="center" open>
   <summary>
     <h2>iOS (<a href="https://openit.daycat.space/guide/ios.html">ref</a>)</h2>
   </summary>
@@ -116,7 +116,7 @@
 </details>
 
 
-<details align="center">
+<details align="center" open>
   <summary>
     <h2>Windows</h2>
   </summary>
@@ -198,7 +198,7 @@
 </details>
 
 
-<details align="center">
+<details align="center" open>
   <summary>
     <h2>Mac</h2>
   </summary>
@@ -280,7 +280,7 @@
 </details>
 
 
-<details align="center">
+<details align="center" open>
   <summary>
     <h2>Linux</h2>
   </summary>
