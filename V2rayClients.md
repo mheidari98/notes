@@ -1,7 +1,6 @@
 # Shadowsocks and V2ray Clients
 
 ## Table of contents
-- [Shadowsocks and V2ray Clients](#shadowsocks-and-v2ray-clients)
 - [Android](#android)
 - [iOS](#ios-ref)
 - [Windows](#windows)
