@@ -145,6 +145,11 @@
         <td style="text-align:left"><a href="https://github.com/2dust/v2rayN/releases">GitHub Release</a></td>
       </tr>
       <tr>
+        <td style="text-align:left"><a href="https://github.com/v2rayA/v2rayA">v2rayA</a></td>
+        <td style="text-align:center">v2ray / sagernet</td>
+        <td style="text-align:left"><a href="https://github.com/v2rayA/v2rayA/releases">GitHub Release</a></td>
+      </tr>
+      <tr>
         <td style="text-align:left"><a href="https://github.com/netchx/netch">netch</a></td>
         <td style="text-align:center">sagernet</td>
         <td style="text-align:left"><a href="https://github.com/netchx/netch/releases">GitHub Release</a></td>
@@ -225,6 +230,11 @@
         <td style="text-align:left"><a href="https://github.com/2dust/v2rayN">v2rayN</a></td>
         <td style="text-align:center">xray / v2ray</td>
         <td style="text-align:left"><a href="https://github.com/2dust/v2rayN/releases">GitHub Release</a></td>
+      </tr>
+      <tr>
+        <td style="text-align:left"><a href="https://github.com/v2rayA/v2rayA">v2rayA</a></td>
+        <td style="text-align:center">v2ray / sagernet</td>
+        <td style="text-align:left"><a href="https://github.com/v2rayA/v2rayA/releases">GitHub Release</a></td>
       </tr>
       <tr>
         <td style="text-align:left"><a href="https://github.com/netchx/netch">netch</a></td>
