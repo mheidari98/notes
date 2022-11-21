@@ -237,6 +237,16 @@
         <td style="text-align:left"><a href="https://github.com/v2rayA/v2rayA/releases">GitHub Release</a></td>
       </tr>
       <tr>
+        <td style="text-align:left"><a href="https://github.com/yanue/V2rayU/tree/master">V2rayU</a></td>
+        <td style="text-align:center">v2ray</td>
+        <td style="text-align:left"><a href="https://github.com/yanue/V2rayU/releases">GitHub Release</a></td>
+      </tr>
+      <tr>
+        <td style="text-align:left"><a href="https://github.com/Cenmrev/V2RayX">V2RayX</a></td>
+        <td style="text-align:center">v2ray</td>
+        <td style="text-align:left"><a href="https://github.com/Cenmrev/V2RayX/releases">GitHub Release</a></td>
+      </tr>
+      <tr>
         <td style="text-align:left"><a href="https://github.com/netchx/netch">netch</a></td>
         <td style="text-align:center">sagernet</td>
         <td style="text-align:left"><a href="https://github.com/netchx/netch/releases">GitHub Release</a></td>
